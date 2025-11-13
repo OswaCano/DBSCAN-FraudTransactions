@@ -1,0 +1,13 @@
+# Manejo y análisis de datos
+pandas
+numpy
+
+# Visualización
+matplotlib
+seaborn
+
+# Machine learning y DBSCAN
+scikit-learn
+
+# Escalado y preprocesamiento
+scipy
